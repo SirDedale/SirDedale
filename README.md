@@ -73,21 +73,21 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabien-mariou&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" alt="Fabien's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabien-mariou&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SirDedale&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" alt="Fabien's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDedale&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fabien-mariou&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SirDedale&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fabien-mariou&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=161b22&hide_border=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SirDedale&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=161b22&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabien-mariou&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SirDedale&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -104,9 +104,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabien-mariou/fabien-mariou/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabien-mariou/fabien-mariou/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/fabien-mariou/fabien-mariou/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SirDedale/SirDedale/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SirDedale/SirDedale/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SirDedale/SirDedale/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -117,7 +117,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabien_Mariou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabien-mariou/)
-[![GitHub](https://img.shields.io/badge/GitHub-fabien--mariou-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabien-mariou)
+[![GitHub](https://img.shields.io/badge/GitHub-SirDedale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirDedale)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Fabien.Mariou@insight.com)
 
 </div>
